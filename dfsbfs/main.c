@@ -5,6 +5,7 @@
 #define MAX_STACK_SIZE 100
 #define MAX_QUEUE_SIZE 100
 #define MAX_VERTICES 100
+
 typedef struct {
 	int data[MAX_STACK_SIZE];
 	int top;
